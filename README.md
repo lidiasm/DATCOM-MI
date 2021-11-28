@@ -4,6 +4,8 @@
 
 ### Artículo de investigación
 
+En el documento `Artículo de Investigación.pdf` se encuentra un ejemplo de artículo de investigación sobre mi TFM basado en Sistemas de Recuperación Basados en Imágenes. Tiene una estructura que comienza con el título, información sobre el autor y la asignatura a la que va dirigda, un resumen sobre la temática, una introducción al problema que pretende resolver, las soluciones existentes y la propuesta para el proyecto. A continuación se detalla la implementación de un nuevo sistema con las técnicas y algoritmos utilizados, casos prácticos en los que se ha aplicado y un conjunto de conclusiones y futuras investigaciones.
+
 ### Proyecto de investigación
 
 1. En el fichero `Idea de proyecto de investigación.pdf` se encuentra el planteamiento inicial del proyecto de investigación para esta asignatura en el que se explica la temática central, el problema que se pretende resolver y las preguntas que se deben plantear para verificar su interés, novedad y viabilidad.
